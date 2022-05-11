@@ -33,7 +33,7 @@ sudo yum install docker-ce docker-ce-cli containerd.io
 
 # minikube installation steps
 
-sudo dnf install curl conntrack -y
+sudo yum install curl conntrack -y
 
 # sudo su
 
